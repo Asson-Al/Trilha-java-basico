@@ -2,7 +2,7 @@ package if_else;
 
 public class IdadeMinima {
     public static void main(String[] args) {
-        int idade = 18;
+        int idade = 21;
         boolean idadeMinima = idade >= 18;
 
         if (idadeMinima) {
