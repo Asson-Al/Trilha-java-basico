@@ -11,13 +11,13 @@ public class IdadeMinima {
         if (idadeMinima) {
 
             System.out.println("A sua idade é igual a: " + idade);
-            System.out.println("Você esta liberado para entrar na feta pois você é maior de idade.");
+            System.out.println("Você esta liberado para entrar na festa pois você é maior de idade.");
 
         }
         //else = se não; se a condição a cima foi falsa ira rodar somente a segunda parte do código.
         else {
             System.out.println("A sua idade é igual a: " + idade);
-            System.out.println("Você não esta liberado para entrar na feta pois você é menor de idade.");
+            System.out.println("Você não esta liberado para entrar na festa pois você é menor de idade.");
         }
 
     }
