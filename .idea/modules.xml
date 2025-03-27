@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SISTEMA-SMART-TV/SISTEMA-SMART-TV.iml" filepath="$PROJECT_DIR$/SISTEMA-SMART-TV/SISTEMA-SMART-TV.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/Trilha-java-basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
     </modules>
