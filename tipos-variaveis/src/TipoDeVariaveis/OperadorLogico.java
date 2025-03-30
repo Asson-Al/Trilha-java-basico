@@ -1,4 +1,4 @@
-package sintaxejava;
+package TipoDeVariaveis;
 
 public class OperadorLogico {
     public static void main(String[] args) {
