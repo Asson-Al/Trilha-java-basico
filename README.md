@@ -1,21 +1,25 @@
-## Trilha-Java-basico
+# Trilha Java Básico
+Repositório para armazenar aprendizados.
 
-Repositorio feito para guardar os aprendizados.
+## 💻 Aulas & Datas
 
-## 💻 Aulas & Datas de Sintaxe de java
-| Aulas      | Datas       | Conclusão |
-|------------|-------------|-|
-| Variaveis  | 25/03/2025  | ✅ |
-| Operadores | 26/03/2025  | ✅ |
-| Metodos    | 27/03/2025  | ✅ |
-| Escopo     | 29/03/2024  | ✅ |
-| Palavras Reservadas | 29/03/2024  | ✅ |
+### Sintaxe Java
+| Aulas                 | Data        | ✅ |  
+|----------------------|------------|---|  
+| Variáveis           | 25/03/2025  | ✅ |  
+| Operadores          | 26/03/2025  | ✅ |  
+| Métodos             | 27/03/2025  | ✅ |  
+| Escopo              | 29/03/2024  | ✅ |  
+| Palavras Reservadas | 29/03/2024  | ✅ |  
 
-## 💻 Aulas & datas de Controle de fluxo
-| AULAS                  | DATAS | CONCLUSÃO |
-|------------------------|-|-|
-| Condicional Simples    | 30/03/2025 |✅|
-| Condicional Composta   | 30/03/2025 |✅|
-| Condicional Encadeadas | ||
+### Controle de Fluxo
+| Aulas                   | Data | ✅ |  
+|-------------------------|-|--|  
+| Condicional Simples     | 30/03/2025 | ✅ |  
+| Condicional Composta    | 30/03/2025 | ✅ |  
+| Condicional Encadeada   | 31/03/2025 | ✅ |  
+| Condicional Ternária    | 31/03/2025 | ✅ |  
+| Switch Case             | 31/03/2025 | ✅ |  
+| Estruturas de Repetição | |  |  
 
-## 🚧🚧🚧Em construção🚧🚧🚧
+## 🚧 Em construção 🚧  

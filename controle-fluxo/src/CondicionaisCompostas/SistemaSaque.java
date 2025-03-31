@@ -1,4 +1,4 @@
-package CondicionaisSimples;
+package CondicionaisCompostas;
 
 public class SistemaSaque {
     public static void main(String[] args) {
