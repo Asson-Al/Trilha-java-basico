@@ -7,12 +7,17 @@ public class SobreMim {
 
         System.out.println("Qual a sua altura?");
         double altura = scanner.nextDouble();
-        System.out.println();
+
+        System.out.println("Digite o seu nome ?");
         String nome = scanner.next();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println("Olá, me chamo" + nome + " " + sobrenome + ".");
+
+        System.out.println("Digite o seu nome ?");
+        String sobrenome = scanner.next();
+
+        System.out.println("Qual a sua idade ?");
+        int idade = scanner.nextInt();
+
+        System.out.println("Olá, me chamo " + nome + " " + sobrenome + ".");
         System.out.println("Tenho " + idade + " anos.");
         System.out.println("Minha altura é " + altura + " cm.");
     }

@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SISTEMA-SMART-TV/SISTEMA-SMART-TV.iml" filepath="$PROJECT_DIR$/SISTEMA-SMART-TV/SISTEMA-SMART-TV.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/Sintaxe-Java.iml" filepath="$PROJECT_DIR$/tipos-variaveis/Sintaxe-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sintaxe-Java/Sintaxe-Java.iml" filepath="$PROJECT_DIR$/Sintaxe-Java/Sintaxe-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/Trilha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-fluxo/condicionais.iml" filepath="$PROJECT_DIR$/controle-fluxo/condicionais.iml" />
     </modules>
   </component>
 </project>
